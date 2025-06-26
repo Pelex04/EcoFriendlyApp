@@ -6,7 +6,7 @@ Project Structure
 
 Languages: Kotlin (with Jetpack Compose for UI)
 Dependencies: Firebase (Authentication, Firestore, Storage), osmdroid (for maps), Accompanist Permissions
-Target SDK: 35 (Android 14)
+Target SDK: 35 (Android 15)
 Minimum SDK: 23 (Android 6.0)
 
 Features
